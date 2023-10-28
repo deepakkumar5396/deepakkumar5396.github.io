@@ -1,6 +1,5 @@
 # MyPortfolio
-
-https://github.com/deepakkumar5396/github.io.git
+https://deepakkumar5396.github.io/
 
 
 "# github.io" 
