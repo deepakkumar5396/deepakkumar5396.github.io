@@ -118,7 +118,7 @@ class PDFBuilder:
         self.text(
             MARGIN + 18,
             PAGE_HEIGHT - 82,
-            "Software Developer | Backend Systems, AWS Infrastructure, APIs, and Production Delivery",
+            "Tech Lead | Distributed Systems, AWS Infrastructure, Microservices, and Production Delivery",
             font="F1",
             size=11.5,
             color=ACCENT_SOFT
@@ -242,10 +242,10 @@ class PDFBuilder:
         font_bold_id = add_object("<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>")
         info_id = add_object(
             "<< "
-            f"/Title ({escape_pdf('Deepak Kumar Resume - Backend Software Developer - Node.js AWS Microservices')}) "
+            f"/Title ({escape_pdf('Deepak Kumar Resume - Tech Lead - Distributed Systems AWS Microservices')}) "
             f"/Author ({escape_pdf('Deepak Kumar')}) "
-            f"/Subject ({escape_pdf('Backend Software Developer Resume')}) "
-            f"/Keywords ({escape_pdf('Deepak Kumar, Backend Software Developer, Tech Lead, Node.js, TypeScript, AWS, PostgreSQL, Neo4j, RabbitMQ, WebSockets, Microservices, APIs, Resume')}) "
+            f"/Subject ({escape_pdf('Tech Lead and Backend Systems Engineer Resume')}) "
+            f"/Keywords ({escape_pdf('Deepak Kumar, Tech Lead, Backend Systems Engineer, Distributed Systems, Node.js, TypeScript, AWS, PostgreSQL, Neo4j, RabbitMQ, WebSockets, Microservices, System Design, Resume')}) "
             f"/Creator ({escape_pdf('generate_resume.py')}) "
             f"/Producer ({escape_pdf('Codex Resume Generator')}) "
             ">>"
@@ -301,58 +301,61 @@ class PDFBuilder:
 def build_resume() -> bytes:
     pdf = PDFBuilder()
 
-    pdf.section("Core Qualifications")
+    pdf.section("Professional Summary")
     pdf.bullet_list(
         [
-            "Backend-focused Software Developer and Tech Lead with hands-on ownership of production systems across eSports, FinTech, HealthTech, and Real Estate.",
-            "Strong experience building REST APIs, microservices, real-time WebSocket services, event-driven workflows, payment integrations, and cloud-backed platforms.",
-            "Production scale includes systems serving 1.5M+ users, 20K concurrent connections, 99.9% uptime, and payment flows with <1% failure rate.",
-            "Practical AWS infrastructure experience across compute, containers, storage, networking, security, release workflows, monitoring, and deployment automation.",
-            "Performance-focused engineer with experience reducing deployment time by 60%, Neo4j latency by 70%, service latency by 45%, and response time from 2s to 800ms."
+            "Tech Lead with 4.5+ years designing, building, and operating distributed backend systems with strong ownership across architecture, delivery, reliability, and production support.",
+            "Expertise in microservices architecture, system design, REST APIs, real-time WebSocket services, event-driven workflows, payment integrations, and cloud-native platforms.",
+            "Proven scale includes platforms serving 1.5M+ users, 20K peak active gamers, 99.9% uptime, and multi-gateway payment flows with strong reliability expectations.",
+            "Hands-on AWS infrastructure ownership across ECS, EKS, Lambda, EventBridge, EC2, S3, CloudFront, ALB, API Gateway, VPC, IAM, RDS, CI/CD, and deployment automation.",
+            "Performance-focused engineer with wins including 70% Neo4j query improvement, 60% Elasticsearch latency reduction, 45% API latency reduction, and 60% faster deployment cycles.",
+            "Strong foundation in design patterns, scalability, operational excellence, mentoring, code quality, and full software development lifecycle best practices."
         ],
         size=9.8
     )
 
     pdf.section("Professional Experience")
     pdf.role(
-        "Tech Lead",
+        "Tech Lead - Backend Systems",
         "Techno XO Private Limited",
         "Mar 2025 - Present",
         "Bangalore, India",
-        "Node.js, MongoDB, MySQL, AWS, WebSockets",
+        "Node.js, MongoDB, MySQL, AWS ECS, Lambda, EventBridge, WebSockets, CI/CD",
         [
-            "Lead backend delivery for an eSports ecosystem and digital store for e& (Etisalat), supporting 1.5M+ users, 20K concurrent connections, and 99.9% uptime.",
-            "Architect tournament hosting, real-time chat, top-up, gift card, reward commerce, and player-facing transaction services using Node.js, WebSockets, MongoDB, MySQL, and AWS.",
-            "Integrated PayPal, PayTabs, PhonePe, and Cashfree payment flows and improved payment reliability to maintain <1% failure rate.",
-            "Improved deployment automation and release workflows, reducing deployment time by 60% while supporting reliable production delivery."
+            "Architected an end-to-end distributed eSports platform and digital store for e& (Etisalat), serving 1.5M+ users with 99.9% uptime and high-concurrency state management.",
+            "Led system design and deployment of mission-critical microservices on AWS for tournament management, real-time communication, reward systems, payment processing, and commerce flows.",
+            "Designed scalable real-time architecture using WebSockets to support low-latency player experiences and peak activity of 20K active gamers.",
+            "Integrated PayPal, PayTabs, PhonePe, and Cashfree payment gateways across top-up, gift-card, and reward-led commerce workflows.",
+            "Optimized cloud infrastructure to support 3x traffic growth while reducing deployment cycles from 45 minutes to 18 minutes through CI/CD automation.",
+            "Mentored 5+ engineers on system design, code quality, production readiness, and operational excellence; awarded Star Performer 2025 for technical execution and leadership."
         ]
     )
     pdf.role(
-        "SDE-1",
+        "SDE-1, Compliance and Identity Platform",
         "iBind Systems",
         "Mar 2024 - Jan 2025",
         "Bangalore, India",
-        "Node.js, PostgreSQL, Neo4j, RabbitMQ, AWS",
+        "Node.js, PostgreSQL, Neo4j, RabbitMQ, AWS, OAuth 2.0, Keycloak, JWT",
         [
-            "Designed backend services and microservices for AML, KYC, authentication, document verification, and admin-led compliance workflows.",
-            "Modeled complex corporate ownership structures in Neo4j for graph-based traversal, beneficial ownership analysis, and relationship-driven queries.",
-            "Optimized Neo4j query patterns and traversal logic, reducing graph-query latency by 70% for compliance analysis workflows.",
-            "Implemented RabbitMQ-powered background jobs, bulk processing workflows, and third-party integrations with Digilocker, SurePass, and Sandbox APIs.",
-            "Secured access flows with JWT, OAuth 2.0, and Keycloak across compliance and admin systems."
+            "Designed backend microservices for AML/KYC compliance workflows handling corporate identity verification, document verification, and beneficial ownership analysis at enterprise scale.",
+            "Architected Neo4j graph database models for complex organizational relationships and optimized query performance by 70% through traversal design and indexing improvements.",
+            "Built robust asynchronous processing pipelines with RabbitMQ for high-volume document verification and guaranteed delivery semantics.",
+            "Integrated Digilocker, SurePass, Sandbox, and compliance APIs while maintaining secure service boundaries and reliable failure handling.",
+            "Implemented authentication and authorization with OAuth 2.0, Keycloak, and JWT across compliance and admin systems."
         ]
     )
     pdf.role(
-        "Software Developer",
+        "Software Engineer",
         "Xanadu Reality",
         "Jun 2022 - Feb 2024",
         "Bangalore, India",
-        "Node.js, React, PostgreSQL, MongoDB, PySpark",
+        "Node.js, React, PostgreSQL, MongoDB, PySpark, Azure Blob Storage",
         [
-            "Built scalable product platforms that transformed offline real-estate operations and contributed to Rs. 4500+ crore revenue influence.",
-            "Delivered high-availability portals for sales, presales, and channel partners, reducing CRM operational costs by Rs. 10L/month.",
-            "Developed API-driven CRM extensions, real-time cloud telephony synchronization, and business-critical workflows for sales operations.",
-            "Processed and standardized 10GB+ datasets using PySpark and Azure Blob Storage to improve analytics readiness and data quality.",
-            "Improved backend and data workflow performance, reducing latency by 45% and optimizing one response path from 2s to 800ms."
+            "Developed scalable backend platforms for real-estate digitization, supporting business units connected to Rs. 4500+ crore FY revenue impact.",
+            "Engineered high-availability portals for sales, presales, and channel partner operations, reducing CRM operational costs by Rs. 10L/month through API-driven automation.",
+            "Built API-driven CRM extensions, real-time cloud telephony synchronization, and business-critical workflows for sales operations.",
+            "Optimized database and API performance through indexing, caching, and query improvements, reducing latency by 45% and improving throughput.",
+            "Processed and standardized 10GB+ datasets using PySpark and Azure Blob Storage, improving data quality, analytics readiness, and business intelligence workflows."
         ]
     )
     pdf.role(
@@ -362,15 +365,15 @@ def build_resume() -> bytes:
         "Kochi, India",
         "Node.js, React Native, Twilio, AWS S3",
         [
-            "Automated consultation recording workflows using Twilio Video Composition and AWS S3, enabling playback support for 6M+ mobile users.",
-            "Improved large-dataset search and pagination performance through Elasticsearch-based query optimization.",
+            "Automated consultation recording, processing, and playback workflows for 6M+ mobile users using Twilio Video Composition and AWS S3.",
+            "Optimized search infrastructure using Elasticsearch, achieving 60% latency reduction and efficient pagination for large-scale datasets.",
             "Built reusable React Native UI components and theming systems to improve consistency across the MFine mobile application."
         ]
     )
 
     pdf.section("Technical Skills")
-    pdf.skill_group("Languages", "Node.js, TypeScript, JavaScript, Python, Java")
-    pdf.skill_group("Databases", "PostgreSQL, MongoDB, Neo4j, Elasticsearch, Redis")
+    pdf.skill_group("Languages and Frameworks", "Node.js, Express, NestJS, TypeScript, JavaScript, Python, Java")
+    pdf.skill_group("Data and Databases", "PostgreSQL, MySQL, MongoDB, Neo4j, Elasticsearch, Redis, PySpark")
     pdf.skill_group(
         "AWS Services",
         "EC2, ECS, EKS, Lambda, S3, CloudFront, ALB, API Gateway, EventBridge, IAM, VPC, RDS"
@@ -378,6 +381,14 @@ def build_resume() -> bytes:
     pdf.skill_group(
         "Tools and Platforms",
         "Docker, Kubernetes, Jenkins, Git, Terraform, Twilio, RabbitMQ, WebSockets, OAuth 2.0, Keycloak"
+    )
+    pdf.skill_group(
+        "AI and Developer Tools",
+        "ChatGPT, Claude, Gemini, GitHub Copilot, Codex, prompt engineering, AI-assisted debugging, AI-assisted architecture"
+    )
+    pdf.skill_group(
+        "Domain Expertise",
+        "Real-time systems, payment processing, AML/KYC compliance, high-availability design, scalability, operational excellence, SDLC best practices"
     )
 
     pdf.section("Education")
@@ -389,13 +400,13 @@ def build_resume() -> bytes:
     pdf.section("Key Achievements")
     pdf.bullet_list(
         [
-            "Delivered eSports backend systems supporting 1.5M+ users, 20K concurrent connections, and 99.9% uptime.",
-            "Improved payment reliability across PayPal, PayTabs, PhonePe, and Cashfree flows to keep transaction failure rate at <1%.",
-            "Reduced deployment time by 60% through improved release automation and cloud deployment workflows.",
-            "Reduced Neo4j graph-query latency by 70% for ownership traversal and compliance analysis.",
-            "Processed 10GB+ datasets, improved latency by 45%, and optimized one response path from 2s to 800ms.",
-            "Contributed to Rs. 4500+ crore revenue influence and Rs. 10L/month CRM cost reduction through real-estate product digitization.",
-            "Automated consultation recording and playback workflows supporting 6M+ users in the MFine mobile ecosystem."
+            "Architected and operated a distributed eSports platform supporting 1.5M+ users, 20K peak active gamers, and 99.9% uptime.",
+            "Led technical architecture decisions for mission-critical systems handling high-volume transactions, real-time communication, and complex state management.",
+            "Improved performance across multiple systems: Neo4j queries by 70%, Elasticsearch latency by 60%, and API latency by 45%.",
+            "Reduced deployment cycle time by 60% through CI/CD automation and stronger cloud release workflows.",
+            "Mentored engineers through code reviews, design discussions, production readiness practices, and system design knowledge sharing.",
+            "Contributed to Rs. 4500+ crore revenue influence and Rs. 10L/month CRM cost reduction through real-estate platform digitization.",
+            "Demonstrated strong problem-solving across payments, compliance, real-time systems, cloud infrastructure, and large-scale data processing."
         ],
         size=9.8
     )
