@@ -1,5 +1,5 @@
 %PDF-1.4
-%‚„œ”
+% Codex Resume PDF
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
@@ -13,133 +13,152 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 5 0 obj
-<< /Title (Deepak Kumar Resume - Backend Developer - Node.js AWS Microservices) /Author (Deepak Kumar) /Subject (Backend Software Developer Resume) /Keywords (Deepak Kumar, Backend Developer, Node.js, TypeScript, AWS, PostgreSQL, Neo4j, RabbitMQ, WebSockets, Microservices, Resume) /Creator (generate_resume.py) /Producer (Codex Resume Generator) >>
+<< /Title (Deepak Kumar Resume - Tech Lead - Distributed Systems AWS Microservices) /Author (Deepak Kumar) /Subject (Tech Lead and Backend Systems Engineer Resume) /Keywords (Deepak Kumar, Tech Lead, Backend Systems Engineer, Distributed Systems, Node.js, TypeScript, AWS, PostgreSQL, Neo4j, RabbitMQ, WebSockets, Microservices, System Design, Resume) /Creator (generate_resume.py) /Producer (Codex Resume Generator) >>
 endobj
 6 0 obj
-<< /Length 6481 >>
+<< /Length 7422 >>
 stream
 0.050 0.120 0.200 rg 42.00 691.89 511.28 108.00 re f
 0.130 0.490 0.780 rg 42.00 691.89 511.28 6.00 re f
 BT /F2 24.00 Tf 1.000 1.000 1.000 rg 1 0 0 1 60.00 779.89 Tm (DEEPAK KUMAR) Tj ET
-BT /F1 11.50 Tf 0.910 0.960 1.000 rg 1 0 0 1 60.00 759.89 Tm (Software Developer | Backend Systems, AWS Infrastructure, and AI-Assisted Engineering) Tj ET
-BT /F1 9.50 Tf 0.910 0.960 1.000 rg 1 0 0 1 60.00 739.89 Tm (Bangalore, India | Triveniganj, Supaul, Bihar 852139) Tj ET
+BT /F1 11.50 Tf 0.910 0.960 1.000 rg 1 0 0 1 60.00 759.89 Tm (Tech Lead | Distributed Systems, AWS Infrastructure, Microservices, and Production Delivery) Tj ET
+BT /F1 9.50 Tf 0.910 0.960 1.000 rg 1 0 0 1 60.00 739.89 Tm (Bangalore, India) Tj ET
 BT /F1 9.50 Tf 0.910 0.960 1.000 rg 1 0 0 1 60.00 723.89 Tm (cusat.deepak12@gmail.com | +91 95346 11809) Tj ET
 BT /F1 9.50 Tf 0.910 0.960 1.000 rg 1 0 0 1 60.00 707.89 Tm (linkedin.com/in/kumardeepakkg | github.com/deepakkumar5396) Tj ET
 BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 665.89 Tm (PROFESSIONAL SUMMARY) Tj ET
 1.00 w 0.780 0.860 0.940 RG 191.20 662.89 m 553.28 662.89 l S
-BT /F1 10.20 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 647.89 Tm (Backend-focused Software Developer with 4.5+ years of experience designing, building, and scaling production) Tj ET
-BT /F1 10.20 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 633.89 Tm (systems across eSports, FinTech, HealthTech, and Real Estate. Strong hands-on experience with Node.js,) Tj ET
-BT /F1 10.20 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 619.89 Tm (TypeScript, PostgreSQL, Neo4j, RabbitMQ, WebSockets, AWS infrastructure, payment gateway integrations,) Tj ET
-BT /F1 10.20 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 605.89 Tm (microservices, and AI-assisted engineering workflows. Proven ability to own backend architecture, cloud) Tj ET
-BT /F1 10.20 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 591.89 Tm (deployments, performance optimization, and end-to-end delivery for high-scale products.) Tj ET
-BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 575.89 Tm (SELECTED IMPACT) Tj ET
-1.00 w 0.780 0.860 0.940 RG 155.60 572.89 m 553.28 572.89 l S
-0.130 0.490 0.780 rg 43.30 552.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 557.89 Tm (Currently leading the full eSports ecosystem and digital store for e& \(Etisalat\), supporting a 1.5M+ user base, 20K) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 544.89 Tm (peak active gamers, and 99.9% uptime.) Tj ET
-0.130 0.490 0.780 rg 43.30 525.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 530.89 Tm (Delivered real-time systems, reward-led commerce, and payment gateway integrations across PayPal, PayTabs,) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 517.89 Tm (PhonePe, and Cashfree.) Tj ET
-0.130 0.490 0.780 rg 43.30 498.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 503.89 Tm (Contributed to Rs. 4500+ crore revenue influence and reduced CRM operational costs by Rs. 10L per month through) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 490.89 Tm (product digitization at Xanadu Reality.) Tj ET
-0.130 0.490 0.780 rg 43.30 471.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 476.89 Tm (Enabled consultation recording and playback workflows for 6M+ users in the MFine mobile ecosystem.) Tj ET
-BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 462.89 Tm (CORE COMPETENCIES) Tj ET
-1.00 w 0.780 0.860 0.940 RG 169.20 459.89 m 553.28 459.89 l S
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 444.89 Tm (Backend Engineering: Node.js, Express.js, NestJS, REST API Design, Microservices, WebSockets, Event-Driven) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 431.89 Tm (Systems) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 417.89 Tm (Programming Languages: JavaScript, TypeScript, Python, C++, Core Java) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 403.89 Tm (Databases and Search: PostgreSQL, MySQL, MongoDB, Neo4j, Elasticsearch, PySpark) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 389.89 Tm (AWS and Infrastructure: EC2, ECS, EKS, ECR, Lambda, EventBridge, S3, CloudFront, Route 53, VPC, IAM, ALB,) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 376.89 Tm (API Gateway, Reverse Proxy) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 362.89 Tm (DevOps and Messaging: RabbitMQ, Docker, Jenkins, CI/CD, Container Deployments, Release Workflows) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 348.89 Tm (Security and Frontend: JWT, OAuth 2.0, Keycloak, Cognito, React, Redux, Tailwind CSS) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 334.89 Tm (Payments, Compliance, and AI: PayPal, PayTabs, PhonePe, Cashfree, AML, KYC, Digilocker, SurePass, Sandbox) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 321.89 Tm (APIs, ChatGPT, Claude, Gemini, Codex, GitHub Copilot) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 307.89 Tm (Domains: eSports, FinTech, HealthTech, Real Estate) Tj ET
-BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 293.89 Tm (PROFESSIONAL EXPERIENCE) Tj ET
-1.00 w 0.780 0.860 0.940 RG 202.00 290.89 m 553.28 290.89 l S
-BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 275.89 Tm (Tech Lead | Techno XO) Tj ET
-BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 262.89 Tm (Mar 2025 - Present | Bangalore, India | Node.js, MongoDB, MySQL, AWS, WebSockets) Tj ET
-0.130 0.490 0.780 rg 43.30 246.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 251.89 Tm (Leading end-to-end delivery of the full eSports ecosystem and digital store for e& \(Etisalat\), supporting a 1.5M+) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 238.89 Tm (total user base and peak concurrency of 20K active gamers.) Tj ET
-0.130 0.490 0.780 rg 43.30 219.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 224.89 Tm (Architected backend services for tournament hosting, real-time chat, top-ups, gift cards, and reward-led commerce) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 211.89 Tm (using Node.js, WebSockets, MongoDB, MySQL, and AWS.) Tj ET
-0.130 0.490 0.780 rg 43.30 192.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 197.89 Tm (Integrated PayPal, PayTabs, PhonePe, and Cashfree to strengthen multi-gateway payment reliability across) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 184.89 Tm (player-facing transaction flows.) Tj ET
-0.130 0.490 0.780 rg 43.30 165.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 170.89 Tm (Scaled cloud infrastructure and release workflows to sustain 99.9% uptime while mentoring a 5+ member) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 157.89 Tm (engineering team.) Tj ET
+0.130 0.490 0.780 rg 43.30 642.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 647.89 Tm (Tech Lead with 4.5+ years designing, building, and operating distributed backend systems with strong ownership) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 634.89 Tm (across architecture, delivery, reliability, and production support.) Tj ET
+0.130 0.490 0.780 rg 43.30 615.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 620.89 Tm (Expertise in microservices architecture, system design, REST APIs, real-time WebSocket services, event-driven) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 607.89 Tm (workflows, payment integrations, and cloud-native platforms.) Tj ET
+0.130 0.490 0.780 rg 43.30 588.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 593.89 Tm (Proven scale includes platforms serving 1.5M+ users, 20K peak active gamers, 99.9% uptime, and multi-gateway) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 580.89 Tm (payment flows with strong reliability expectations.) Tj ET
+0.130 0.490 0.780 rg 43.30 561.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 566.89 Tm (Hands-on AWS infrastructure ownership across ECS, EKS, Lambda, EventBridge, EC2, S3, CloudFront, ALB, API) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 553.89 Tm (Gateway, VPC, IAM, RDS, CI/CD, and deployment automation.) Tj ET
+0.130 0.490 0.780 rg 43.30 534.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 539.89 Tm (Performance-focused engineer with wins including 70% Neo4j query improvement, 60% Elasticsearch latency) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 526.89 Tm (reduction, 45% API latency reduction, and 60% faster deployment cycles.) Tj ET
+0.130 0.490 0.780 rg 43.30 507.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 512.89 Tm (Strong foundation in design patterns, scalability, operational excellence, mentoring, code quality, and full software) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 499.89 Tm (development lifecycle best practices.) Tj ET
+BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 485.89 Tm (PROFESSIONAL EXPERIENCE) Tj ET
+1.00 w 0.780 0.860 0.940 RG 202.00 482.89 m 553.28 482.89 l S
+BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 467.89 Tm (Tech Lead - Backend Systems | Techno XO Private Limited) Tj ET
+BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 454.89 Tm (Mar 2025 - Present | Bangalore, India | Node.js, MongoDB, MySQL, AWS ECS, Lambda, EventBridge, WebSockets, CI/CD) Tj ET
+0.130 0.490 0.780 rg 43.30 438.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 443.89 Tm (Architected an end-to-end distributed eSports platform and digital store for e& \(Etisalat\), serving 1.5M+ users with) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 430.89 Tm (99.9% uptime and high-concurrency state management.) Tj ET
+0.130 0.490 0.780 rg 43.30 411.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 416.89 Tm (Led system design and deployment of mission-critical microservices on AWS for tournament management,) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 403.89 Tm (real-time communication, reward systems, payment processing, and commerce flows.) Tj ET
+0.130 0.490 0.780 rg 43.30 384.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 389.89 Tm (Designed scalable real-time architecture using WebSockets to support low-latency player experiences and peak) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 376.89 Tm (activity of 20K active gamers.) Tj ET
+0.130 0.490 0.780 rg 43.30 357.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 362.89 Tm (Integrated PayPal, PayTabs, PhonePe, and Cashfree payment gateways across top-up, gift-card, and reward-led) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 349.89 Tm (commerce workflows.) Tj ET
+0.130 0.490 0.780 rg 43.30 330.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 335.89 Tm (Optimized cloud infrastructure to support 3x traffic growth while reducing deployment cycles from 45 minutes to) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 322.89 Tm (18 minutes through CI/CD automation.) Tj ET
+0.130 0.490 0.780 rg 43.30 303.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 308.89 Tm (Mentored 5+ engineers on system design, code quality, production readiness, and operational excellence; awarded) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 295.89 Tm (Star Performer 2025 for technical execution and leadership.) Tj ET
+BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 277.89 Tm (SDE-1, Compliance and Identity Platform | iBind Systems) Tj ET
+BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 264.89 Tm (Mar 2024 - Jan 2025 | Bangalore, India | Node.js, PostgreSQL, Neo4j, RabbitMQ, AWS, OAuth 2.0, Keycloak, JWT) Tj ET
+0.130 0.490 0.780 rg 43.30 248.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 253.89 Tm (Designed backend microservices for AML/KYC compliance workflows handling corporate identity verification,) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 240.89 Tm (document verification, and beneficial ownership analysis at enterprise scale.) Tj ET
+0.130 0.490 0.780 rg 43.30 221.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 226.89 Tm (Architected Neo4j graph database models for complex organizational relationships and optimized query) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 213.89 Tm (performance by 70% through traversal design and indexing improvements.) Tj ET
+0.130 0.490 0.780 rg 43.30 194.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 199.89 Tm (Built robust asynchronous processing pipelines with RabbitMQ for high-volume document verification and) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 186.89 Tm (guaranteed delivery semantics.) Tj ET
+0.130 0.490 0.780 rg 43.30 167.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 172.89 Tm (Integrated Digilocker, SurePass, Sandbox, and compliance APIs while maintaining secure service boundaries) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 159.89 Tm (and reliable failure handling.) Tj ET
+0.130 0.490 0.780 rg 43.30 140.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 145.89 Tm (Implemented authentication and authorization with OAuth 2.0, Keycloak, and JWT across compliance and admin) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 132.89 Tm (systems.) Tj ET
 endstream
 endobj
 7 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 8 0 obj
-<< /Length 6000 >>
+<< /Length 7421 >>
 stream
 1.00 w 0.780 0.860 0.940 RG 42.00 809.89 m 553.28 809.89 l S
 BT /F2 10.00 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 819.89 Tm (Deepak Kumar Resume) Tj ET
-BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 793.89 Tm (SDE - 1, Corporate Identity Platform and AML | iBind Systems) Tj ET
-BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 780.89 Tm (Mar 2024 - Jan 2025 | Bangalore, India | Node.js, PostgreSQL, Neo4j, RabbitMQ, AWS) Tj ET
+BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 793.89 Tm (Software Engineer | Xanadu Reality) Tj ET
+BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 780.89 Tm (Jun 2022 - Feb 2024 | Bangalore, India | Node.js, React, PostgreSQL, MongoDB, PySpark, Azure Blob Storage) Tj ET
 0.130 0.490 0.780 rg 43.30 764.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 769.89 Tm (Designed backend services and microservices for AML, KYC, authentication, document verification, and admin-led) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 756.89 Tm (compliance workflows.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 769.89 Tm (Developed scalable backend platforms for real-estate digitization, supporting business units connected to Rs.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 756.89 Tm (4500+ crore FY revenue impact.) Tj ET
 0.130 0.490 0.780 rg 43.30 737.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 742.89 Tm (Modeled complex corporate ownership structures in Neo4j to support graph-based traversal, beneficial ownership) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 729.89 Tm (analysis, and relationship-driven queries.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 742.89 Tm (Engineered high-availability portals for sales, presales, and channel partner operations, reducing CRM operational) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 729.89 Tm (costs by Rs. 10L/month through API-driven automation.) Tj ET
 0.130 0.490 0.780 rg 43.30 710.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 715.89 Tm (Implemented RabbitMQ-powered background job pipelines and bulk processing flows for reliable asynchronous) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 702.89 Tm (operations.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 715.89 Tm (Built API-driven CRM extensions, real-time cloud telephony synchronization, and business-critical workflows for) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 702.89 Tm (sales operations.) Tj ET
 0.130 0.490 0.780 rg 43.30 683.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 688.89 Tm (Integrated Digilocker, SurePass, and Sandbox APIs and secured access flows with JWT, OAuth 2.0, and) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 675.89 Tm (Keycloak.) Tj ET
-BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 657.89 Tm (Software Developer | Xanadu Reality) Tj ET
-BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 644.89 Tm (Jun 2022 - Feb 2024 | Bangalore, India | Node.js, React, PostgreSQL, MongoDB, PySpark) Tj ET
-0.130 0.490 0.780 rg 43.30 628.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 633.89 Tm (Built scalable product platforms that transformed offline real-estate operations and contributed to Rs. 4500+ crore) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 620.89 Tm (FY revenue influence.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 688.89 Tm (Optimized database and API performance through indexing, caching, and query improvements, reducing latency by) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 675.89 Tm (45% and improving throughput.) Tj ET
+0.130 0.490 0.780 rg 43.30 656.19 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 661.89 Tm (Processed and standardized 10GB+ datasets using PySpark and Azure Blob Storage, improving data quality,) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 648.89 Tm (analytics readiness, and business intelligence workflows.) Tj ET
+BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 630.89 Tm (Associate Software Developer | MFine) Tj ET
+BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 617.89 Tm (Aug 2021 - May 2022 | Kochi, India | Node.js, React Native, Twilio, AWS S3) Tj ET
 0.130 0.490 0.780 rg 43.30 601.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 606.89 Tm (Delivered high-availability portals for sales, presales, and channel partners, reducing CRM operational costs by Rs.) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 593.89 Tm (10L per month.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 606.89 Tm (Automated consultation recording, processing, and playback workflows for 6M+ mobile users using Twilio Video) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 593.89 Tm (Composition and AWS S3.) Tj ET
 0.130 0.490 0.780 rg 43.30 574.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 579.89 Tm (Developed API-driven CRM extensions and real-time cloud telephony synchronization for business-critical) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 566.89 Tm (workflows.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 579.89 Tm (Optimized search infrastructure using Elasticsearch, achieving 60% latency reduction and efficient pagination for) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 566.89 Tm (large-scale datasets.) Tj ET
 0.130 0.490 0.780 rg 43.30 547.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 552.89 Tm (Processed and standardized large-scale datasets using PySpark and Azure Blob Storage to improve analytics) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 539.89 Tm (readiness and data quality.) Tj ET
-BT /F2 11.50 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 521.89 Tm (Associate Software Developer | MFine) Tj ET
-BT /F1 9.20 Tf 0.380 0.440 0.520 rg 1 0 0 1 42.00 508.89 Tm (Aug 2021 - May 2022 | Kochi, India | Node.js, React Native, Twilio, AWS S3) Tj ET
-0.130 0.490 0.780 rg 43.30 492.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 497.89 Tm (Automated consultation recording workflows using Twilio Video Composition and AWS S3, enabling seamless) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 484.89 Tm (playback for 6M+ mobile users.) Tj ET
-0.130 0.490 0.780 rg 43.30 465.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 470.89 Tm (Improved large-dataset search and pagination performance through Elasticsearch-based query optimization.) Tj ET
-0.130 0.490 0.780 rg 43.30 451.19 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 456.89 Tm (Built reusable React Native UI components and theming systems to improve consistency across the MFine) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 443.89 Tm (mobile application.) Tj ET
-BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 425.89 Tm (EDUCATION) Tj ET
-1.00 w 0.780 0.860 0.940 RG 117.20 422.89 m 553.28 422.89 l S
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 407.89 Tm (Master of Computer Application \(MCA\), Cochin University of Science and Technology | Jul 2018 - May 2021 | Kochi,) Tj ET
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 394.29 Tm (India | CGPA: 7.2) Tj ET
-BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 378.69 Tm (PROJECTS) Tj ET
-1.00 w 0.780 0.860 0.940 RG 110.40 375.69 m 553.28 375.69 l S
-0.130 0.490 0.780 rg 43.30 354.99 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 360.69 Tm (eMazdoor Portal - Built a Django and React web application connecting migrant workers with job providers.) Tj ET
-0.130 0.490 0.780 rg 43.30 340.99 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 346.69 Tm (Online Parking System - Developed a Django web application to discover and book parking slots online.) Tj ET
-BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 332.69 Tm (AWARDS AND ADDITIONAL INFORMATION) Tj ET
-1.00 w 0.780 0.860 0.940 RG 202.00 329.69 m 553.28 329.69 l S
-0.130 0.490 0.780 rg 43.30 308.99 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 314.69 Tm (Star Performer Award 2025 for exceptional performance and successful delivery of the e& eSports ecosystem.) Tj ET
-0.130 0.490 0.780 rg 43.30 294.99 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 300.69 Tm (Solved 500+ data structures and algorithms problems.) Tj ET
-0.130 0.490 0.780 rg 43.30 280.99 3.40 3.40 re f
-BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 286.69 Tm (Languages: English and Hindi.) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 552.89 Tm (Built reusable React Native UI components and theming systems to improve consistency across the MFine) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 539.89 Tm (mobile application.) Tj ET
+BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 521.89 Tm (TECHNICAL SKILLS) Tj ET
+1.00 w 0.780 0.860 0.940 RG 160.80 518.89 m 553.28 518.89 l S
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 503.89 Tm (Languages and Frameworks: Node.js, Express, NestJS, TypeScript, JavaScript, Python, Java) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 489.89 Tm (Data and Databases: PostgreSQL, MySQL, MongoDB, Neo4j, Elasticsearch, Redis, PySpark) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 475.89 Tm (AWS Services: EC2, ECS, EKS, Lambda, S3, CloudFront, ALB, API Gateway, EventBridge, IAM, VPC, RDS) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 461.89 Tm (Tools and Platforms: Docker, Kubernetes, Jenkins, Git, Terraform, Twilio, RabbitMQ, WebSockets, OAuth 2.0,) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 448.89 Tm (Keycloak) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 434.89 Tm (AI and Developer Tools: ChatGPT, Claude, Gemini, GitHub Copilot, Codex, prompt engineering, AI-assisted) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 421.89 Tm (debugging, AI-assisted architecture) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 407.89 Tm (Domain Expertise: Real-time systems, payment processing, AML/KYC compliance, high-availability design,) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 394.89 Tm (scalability, operational excellence, SDLC best practices) Tj ET
+BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 380.89 Tm (EDUCATION) Tj ET
+1.00 w 0.780 0.860 0.940 RG 117.20 377.89 m 553.28 377.89 l S
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 362.89 Tm (Master of Computer Application \(MCA\), Cochin University of Science and Technology | Jul 2018 - May 2021 | Kochi,) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 42.00 349.29 Tm (India | CGPA: 7.2) Tj ET
+BT /F2 10.00 Tf 0.130 0.490 0.780 rg 1 0 0 1 42.00 333.69 Tm (KEY ACHIEVEMENTS) Tj ET
+1.00 w 0.780 0.860 0.940 RG 162.40 330.69 m 553.28 330.69 l S
+0.130 0.490 0.780 rg 43.30 309.99 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 315.69 Tm (Architected and operated a distributed eSports platform supporting 1.5M+ users, 20K peak active gamers, and 99.9%) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 302.69 Tm (uptime.) Tj ET
+0.130 0.490 0.780 rg 43.30 282.99 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 288.69 Tm (Led technical architecture decisions for mission-critical systems handling high-volume transactions, real-time) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 275.69 Tm (communication, and complex state management.) Tj ET
+0.130 0.490 0.780 rg 43.30 255.99 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 261.69 Tm (Improved performance across multiple systems: Neo4j queries by 70%, Elasticsearch latency by 60%, and API) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 248.69 Tm (latency by 45%.) Tj ET
+0.130 0.490 0.780 rg 43.30 228.99 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 234.69 Tm (Reduced deployment cycle time by 60% through CI/CD automation and stronger cloud release workflows.) Tj ET
+0.130 0.490 0.780 rg 43.30 214.99 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 220.69 Tm (Mentored engineers through code reviews, design discussions, production readiness practices, and system design) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 207.69 Tm (knowledge sharing.) Tj ET
+0.130 0.490 0.780 rg 43.30 187.99 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 193.69 Tm (Contributed to Rs. 4500+ crore revenue influence and Rs. 10L/month CRM cost reduction through real-estate) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 180.69 Tm (platform digitization.) Tj ET
+0.130 0.490 0.780 rg 43.30 160.99 3.40 3.40 re f
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 166.69 Tm (Demonstrated strong problem-solving across payments, compliance, real-time systems, cloud infrastructure, and) Tj ET
+BT /F1 9.80 Tf 0.170 0.220 0.280 rg 1 0 0 1 56.00 153.69 Tm (large-scale data processing.) Tj ET
 endstream
 endobj
 9 0 obj
@@ -148,17 +167,17 @@ endobj
 xref
 0 10
 0000000000 65535 f 
-0000000015 00000 n 
-0000000064 00000 n 
-0000000127 00000 n 
-0000000197 00000 n 
-0000000272 00000 n 
-0000000637 00000 n 
-0000007169 00000 n 
-0000007311 00000 n 
-0000013362 00000 n 
+0000000028 00000 n 
+0000000077 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000000285 00000 n 
+0000000720 00000 n 
+0000008193 00000 n 
+0000008335 00000 n 
+0000015807 00000 n 
 trailer
 << /Size 10 /Root 1 0 R /Info 5 0 R >>
 startxref
-13504
+15949
 %%EOF
